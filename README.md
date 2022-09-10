@@ -9,10 +9,14 @@ Some of the highest correlated factors to attrition are Job Involvement (-13%), 
 Initial ideas to combat attrition could include;
 
 -More responsibility in independence in projects.
+
 -Creating an open environment for discussion with morning team meetings. 
+
 -Open stock options for new hires.
+
 -Allow more remote work opportunities.
- -Total years working may be created through the above mitigating actions. 
+
+-Total years working may be created through the above mitigating actions. 
 
 
 ![image](https://user-images.githubusercontent.com/44706605/189500934-075d5560-3cb5-4c23-804c-4027ce809f54.png)
