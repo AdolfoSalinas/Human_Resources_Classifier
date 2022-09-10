@@ -4,7 +4,7 @@ Create a classifier using Human Resources data to determine which Employees are 
 Compare outputs of Logistic Regression, Random Forest and Artificial Nural Network
 
 Exploratory Data analysis 
-Some of the highest correlated factors to attrition are Job Involvement (-13%), Stock Options level (-14%), total years working (-17%) and Distance from home(7%).
+Some of the highest correlated factors to attrition are Job Involvement (-13%), Stock Options level (-14%), total years working (-17%) and Distance from home (7%).
 
 Initial ideas to combat attrition could include;
 
